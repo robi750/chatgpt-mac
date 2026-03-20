@@ -22,11 +22,11 @@ Originally forked from vincelwt/chatgpt-mac, but most of the code has been rewri
 Download the latest release from the links below:
 
 **Mac:**  
-[Download ChatGPT MenuBar for Mac](https://temp-url-for-mac-download.com)  
+[Download ChatGPT MenuBar for Mac](https://github.com/robi750/ChatGPT-MenuBar/releases/download/v1.0.2/ChatGPT-MenuBar-1.0.2.dmg)  
 - Open the `.dmg` file and drag the application into your Applications folder.
 
 **Windows:**  
-[Download ChatGPT MenuBar for Windows](https://temp-url-for-windows-download.com)  
+[Download ChatGPT MenuBar for Windows](https://github.com/robi750/ChatGPT-MenuBar/releases/download/v1.0.2/ChatGPT-MenuBar.Setup.1.0.2.exe)  
 - Run the `.exe` installer and follow the setup wizard.
 
 ---
